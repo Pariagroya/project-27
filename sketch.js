@@ -41,7 +41,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(230);
+  background("yellow");
   roofObject.display();
 
   rope1.display();
